@@ -1,0 +1,3 @@
+Commit One
+
+This is a text file testing git repos. I will be pasting random stuff here and adding new text files and making commits to the repo.

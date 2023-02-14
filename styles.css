@@ -1,6 +1,10 @@
 body{
-    background-color: rgb(54, 75, 107);
+    background-color: rgb(55, 93, 119);
 }
 h1 {
-    color: rgb(42, 150, 150);
+    color: rgb(233, 200, 13);
+}
+p {
+    color: antiquewhite;
+    font-size: 18px;
 }

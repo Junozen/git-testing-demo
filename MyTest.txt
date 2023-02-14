@@ -1,6 +1,6 @@
 Commit One
 
-This is a text file testing git repos. I will be pasting random stuff here and adding new text files and making commits to the repo.
+This is a dummy file testing git repositories. I will be pasting random stuff here and adding new text files and making commits to the repo.
 This is a new line for a second commit, lets see how it goes. 
 This is a new line for a third commit, so far so good!
 
